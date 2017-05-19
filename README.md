@@ -1,6 +1,5 @@
 # Arduino---Raspberry-Serial-Communication
-Sample Code for Arduino to Raspberry Communication
+Sample Code Arduino -> Raspberry Communication
 
-A sample program for Arduino and Phyton 
-A python sniplet to detect the correct USB device an Arduino is pluged into
-Raspberry PI.
+Sample programs for Arduino and Phyton 
+Include a python sniplet to detect the correct USB device an Arduino is plugged when connected to a PI
