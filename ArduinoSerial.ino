@@ -1,4 +1,4 @@
-/^ Arduino Serial Communication Sample Sketch
+/* Arduino Serial Communication Sample Sketch
 
  2017-05-19 ThR
  Physical Computing AG / SGH Holzgerlingen
